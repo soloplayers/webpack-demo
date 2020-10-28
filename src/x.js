@@ -1,3 +1,5 @@
-import './x.css';
-import './y.css'
+import './x.scss';
+import './y.less';
+import './z.styl';
+
 export default 'xxx';
