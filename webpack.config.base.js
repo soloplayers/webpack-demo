@@ -8,7 +8,7 @@ module.exports = {
 	},
 	plugins: [
 		new HtmlWebpackPlugin({
-			title: '方方',
+			title: 'webpack-demo',
 			template: './src/assets/index.html'
 		})
 	],
